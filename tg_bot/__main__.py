@@ -26,8 +26,7 @@ python-telegram-bot library, and am fully opensource - you can find what makes m
 
 Feel free to submit pull requests on github, or to contact my support group, @MarieSupport, with any bugs, questions \
 or feature requests you might have :)
-I also have a news channel, @MarieNews for announcements on new features, downtime, etc.
-
+i have a movie download channel @mallu_moviesnew
 You can find the list of available commands with /help.
 
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
